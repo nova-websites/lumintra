@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/        # Restrict admin pages
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
